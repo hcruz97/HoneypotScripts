@@ -151,7 +151,7 @@ If issues persist, copy your error output and paste it into Gemini or Claude wit
 > [paste output]
 > What is the root cause and how do I fix it?
 
-## 8. Project Team and Credits
+## Project Team and Credits
 
 Georgia Gwinnett College Capstone Project
 - Leena  
