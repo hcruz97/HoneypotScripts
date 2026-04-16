@@ -21,6 +21,8 @@ Before running any scripts, provision the infrastructure.
 - Once in the welcome screen use search tool at the top to lookup "Compute Engine API" and enable it
 
 ### VM Configuration
+- Create a VM
+  
 #### VM 1: **ELK Server (Central Logging & Dashboard)**
 - Machine Type: e2-standard-2
 - Boot Disk Size: 20 GB 
