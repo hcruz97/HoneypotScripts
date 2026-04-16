@@ -7,6 +7,7 @@ Before running any scripts, provision the infrastructure.
 
 ### Requirements
 - Google Cloud Platform (GCP) account https://cloud.google.com/
+- A credit card to have on file (its free to use charges may apply!) 
 - Two Virtual Machines in the same VPC network
 
 ### Operating System (Both VMs)
