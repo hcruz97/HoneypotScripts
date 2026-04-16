@@ -13,6 +13,11 @@ Before running any scripts, provision the infrastructure.
 ### Operating System (Both VMs)
 - Ubuntu 22.04 LTS (x86/64, amd64 jammy image)
 
+### Cloud set up
+- Create Google cloud account
+- Add payment information (make sure not to fully activate if you wish to remain in a free trial)
+- Once in the welcome screen use search tool at the top to lookup "Compute Engine API" and enable it
+
 ### VM Configuration
 #### VM 1: **ELK Server (Central Logging & Dashboard)**
 - Machine Type: e2-standard-2
