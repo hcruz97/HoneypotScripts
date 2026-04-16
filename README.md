@@ -59,6 +59,7 @@ Port 22 will be used by the honeypot. Administrative SSH access is moved to port
 ## Phase 2: Deploy the ELK Stack
 
 #### Connect to **ELK Server**
+- Go to VM Instance to view newly created VMs
 **SSH into the ELK VM via GCP.**
 
 #### Download Script
