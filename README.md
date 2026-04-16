@@ -29,7 +29,7 @@ Before running any scripts, provision the infrastructure.
 - Create Google cloud account
 - Add payment information (make sure not to fully activate if you wish to remain in a free trial)
 - Once in the welcome screen use search tool at the top to lookup "Compute Engine API" and enable it
-- 
+
 **Important: Complete this step before running scripts to avoid losing access.**
 
 #### Create Firewall Rules In GCP Console
