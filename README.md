@@ -13,6 +13,13 @@ Before running any scripts, provision the infrastructure.
 ### Operating System (Both VMs)
 - Ubuntu 22.04 LTS (x86/64, amd64 jammy image)
 
+## Phase 1: Environemnt set up and Network Security (Firewall Rules)
+
+### Cloud set up
+- Create Google cloud account
+- Add payment information (make sure not to fully activate if you wish to remain in a free trial)
+- Once in the welcome screen use search tool at the top to lookup "Compute Engine API" and enable it
+
 ### VM Configuration
 #### VM 1: **ELK Server (Central Logging & Dashboard)**
 - Machine Type: e2-standard-2
@@ -22,13 +29,6 @@ Before running any scripts, provision the infrastructure.
 #### VM 2: **The Honeypot Server (The Trap)**
 - Machine Type: e2-small
 - Boot Disk Size: 10 GB
-
-## Phase 1: Network Security (Firewall Rules)
-
-### Cloud set up
-- Create Google cloud account
-- Add payment information (make sure not to fully activate if you wish to remain in a free trial)
-- Once in the welcome screen use search tool at the top to lookup "Compute Engine API" and enable it
 
 **Important: Complete this step before running scripts to avoid losing access.**
 
