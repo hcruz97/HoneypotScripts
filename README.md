@@ -6,7 +6,7 @@ This project deploys a highly interactive SSH honeypot using Cowrie paried with 
 Before running any scripts, provision the infrastructure.
 
 ### Requirements
-- Google Cloud Platform (GCP) account
+- Google Cloud Platform (GCP) account https://cloud.google.com/
 - Two Virtual Machines in the same VPC network
 
 ### Operating System (Both VMs)
